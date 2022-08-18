@@ -19,11 +19,11 @@ variable billing_cylce {
 }
 
 variable metro {
-    default = "SG"
+    default = "SV"
 }
 
 variable facility {
-    default = "sg1"
+    default = "sv15"
 }
 
 variable ipxe_script {
